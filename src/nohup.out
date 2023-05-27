@@ -1,0 +1,14 @@
+17:55:00.193                     › initializing background
+Gtk-Message: 17:55:00.534: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 17:55:00.535: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 17:55:00.535: Failed to load module "appmenu-gtk-module"
+running migrations
+/usr/share/libdrm/amdgpu.ids: No such file or directory
+[7838:0512/175503.966146:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+17:55:15.345                     › initializing background
+Gtk-Message: 17:55:15.378: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 17:55:15.378: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 17:55:15.378: Failed to load module "appmenu-gtk-module"
+running migrations
+/usr/share/libdrm/amdgpu.ids: No such file or directory
+[8061:0512/175515.484496:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
