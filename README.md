@@ -8,7 +8,7 @@ Translate the model by a given distance in relation to the X, Y, Z axes.
 Rotate the model by a given angle relative to its X, Y, Z axes.
 Scale the model by a given value.
 
-GUI implementation, based on Qt
+GUI implementation, based on RayGUI
 
 The graphical user interface must contain:
 
